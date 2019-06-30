@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bonin.giovanni.concretedesafioapigithub.test" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="29" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.bonin.giovanni.concretedesafioapigithub"
+        android:targetPackage="com.bonin.giovanni.concretedesafioapigithub" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

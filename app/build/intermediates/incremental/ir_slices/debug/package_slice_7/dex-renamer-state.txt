@@ -1,0 +1,4 @@
+#Sat Jun 29 07:26:24 BRT 2019
+base.0=/Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

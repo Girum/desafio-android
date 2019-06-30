@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e55999ac7ea8c7375d64e01c9ac5a09d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/37616084b1a875c9b0e2b1f931fc0358/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e9d640c21e49e8faf4c17179c364e35e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/7f976db2683ec2fcdf14e4931d52773f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/15da9fa248eff8186d41a1224982c2e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/42978dc518956d4788cc7850b99617a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a9550d582a5230ca0b8f95bb539318a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e822f68353f1ca32a87bfe9317d3e778/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/6e4f02de6cdb3189743c09fa49ec0553/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/cde5325ba1b953581a3c7cc9c8dfc7ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/a28859898866986c4d9175c5fe4e4a86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e6dc97619472dd41800c083d85e78c9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a8542c6dd7f877a18d984001b14cf6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e137a8bebed14c02dc698da63af9b9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/31677b6479ce2600ed8037f18d8bead1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/bdffc4327ebab1309642b71bf4398d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/22fe35f08659732f37acc5699ea92b78/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/8730b82e369f127bf194219917868ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/259994bbb86025310c422c073dee1e62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/83c19a896176b2f82c31952851e86bcf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/aba65ff4094a3d28c53f0c2edddf2e78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/53211b6c96fd5a0d021efa7ee4841469/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e6e67fa972b08dde03b3e0a77b0f7dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/d9ebee8b5b445f76fb2cafa1a85d1d24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/232c33abb8b341e23022cb46efa593d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/097ea931992d4c29a20e4b6337512ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/49389736339f223e30bbedd537bb0ece/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/37616084b1a875c9b0e2b1f931fc0358/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/37616084b1a875c9b0e2b1f931fc0358/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/22fe35f08659732f37acc5699ea92b78/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/22fe35f08659732f37acc5699ea92b78/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.bonin.giovanni.concretedesafioapigithub.MainActivity
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e55999ac7ea8c7375d64e01c9ac5a09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e55999ac7ea8c7375d64e01c9ac5a09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/37616084b1a875c9b0e2b1f931fc0358/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/37616084b1a875c9b0e2b1f931fc0358/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e9d640c21e49e8faf4c17179c364e35e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e9d640c21e49e8faf4c17179c364e35e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/7f976db2683ec2fcdf14e4931d52773f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/7f976db2683ec2fcdf14e4931d52773f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/15da9fa248eff8186d41a1224982c2e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/15da9fa248eff8186d41a1224982c2e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/42978dc518956d4788cc7850b99617a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/42978dc518956d4788cc7850b99617a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a9550d582a5230ca0b8f95bb539318a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a9550d582a5230ca0b8f95bb539318a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e822f68353f1ca32a87bfe9317d3e778/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e822f68353f1ca32a87bfe9317d3e778/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/6e4f02de6cdb3189743c09fa49ec0553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/6e4f02de6cdb3189743c09fa49ec0553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/cde5325ba1b953581a3c7cc9c8dfc7ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/cde5325ba1b953581a3c7cc9c8dfc7ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/a28859898866986c4d9175c5fe4e4a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/a28859898866986c4d9175c5fe4e4a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e6dc97619472dd41800c083d85e78c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/e6dc97619472dd41800c083d85e78c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a8542c6dd7f877a18d984001b14cf6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3a8542c6dd7f877a18d984001b14cf6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e137a8bebed14c02dc698da63af9b9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e137a8bebed14c02dc698da63af9b9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/31677b6479ce2600ed8037f18d8bead1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/31677b6479ce2600ed8037f18d8bead1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/bdffc4327ebab1309642b71bf4398d1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/bdffc4327ebab1309642b71bf4398d1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/c1ef43223f1e6ccc9ac90c1973ccb11a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/22fe35f08659732f37acc5699ea92b78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/22fe35f08659732f37acc5699ea92b78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/8730b82e369f127bf194219917868ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/8730b82e369f127bf194219917868ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/259994bbb86025310c422c073dee1e62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/259994bbb86025310c422c073dee1e62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/83c19a896176b2f82c31952851e86bcf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/83c19a896176b2f82c31952851e86bcf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/aba65ff4094a3d28c53f0c2edddf2e78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/aba65ff4094a3d28c53f0c2edddf2e78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/53211b6c96fd5a0d021efa7ee4841469/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/53211b6c96fd5a0d021efa7ee4841469/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e6e67fa972b08dde03b3e0a77b0f7dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/3e6e67fa972b08dde03b3e0a77b0f7dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/d9ebee8b5b445f76fb2cafa1a85d1d24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/d9ebee8b5b445f76fb2cafa1a85d1d24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/232c33abb8b341e23022cb46efa593d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/232c33abb8b341e23022cb46efa593d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/097ea931992d4c29a20e4b6337512ea5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/097ea931992d4c29a20e4b6337512ea5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/49389736339f223e30bbedd537bb0ece/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giovannibonin/.gradle/caches/transforms-2/files-2.1/49389736339f223e30bbedd537bb0ece/AndroidManifest.xml:20:5-44
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giovannibonin/Documents/ConcreteDesafioAPIGithub/app/src/main/AndroidManifest.xml
